@@ -1,5 +1,6 @@
 import React from 'react';
-import Home from './home/home';
+import Home from './pages/home/home';
+import Watch from './pages/home/watch/Watch';
 import "./App.scss";
 function App() {
   return (
